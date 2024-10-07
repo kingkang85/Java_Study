@@ -19,7 +19,5 @@ public class _02_Else {
             System.out.println("아이스 아메리카노 +1");
         }
         System.out.println("커피 주문 완료 #2");
-
-
     }
 }
